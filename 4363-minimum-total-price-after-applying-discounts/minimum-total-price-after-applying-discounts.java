@@ -14,9 +14,7 @@ class Solution {
                 total += prices[i];
             }
         }
-
         return total;
-    
     }
     
 }
